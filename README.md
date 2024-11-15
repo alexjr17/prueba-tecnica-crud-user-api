@@ -47,8 +47,8 @@ php artisan serve
 
 
 ## Despliegue
-- El proyecto front.end está desplegado en prueba-tecnica-front-crud-user-production.up.railway.app.
-- El proyecto back-end está desplegado en prueba-tecnica-crud-user-api-production.up.railway.app.
+- El proyecto front.end está desplegado en [Ver deploy front-end](https://prueba-tecnica-front-crud-user-production.up.railway.app).
+- El proyecto back-end está desplegado en [Ver deploy back-end](https://prueba-tecnica-crud-user-api-production.up.railway.app).
 - Correo: test@example.com
 - Contraseña: 12345678
 
